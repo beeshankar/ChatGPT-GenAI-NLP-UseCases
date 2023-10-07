@@ -1,0 +1,3 @@
+Use Cases for Internal IT Systems
+•	Systems with less exposure to external systems, or third-party APIs
+•	Systems with very minimal changes to existing Information Security, Data Governance or Compliance Controls
