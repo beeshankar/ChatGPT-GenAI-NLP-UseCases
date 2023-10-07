@@ -1,0 +1,7 @@
+# ChatGPT-GenAI-NLP-UseCase-References for my blog
+# My experiments with AI/NLP/ChatGPT based Use Cases 
+1. AI for Personal Usage
+2. AI for Self-Learning
+3. AI for Business Use
+4. AI Technology as a Service  (AITaaS)
+   
